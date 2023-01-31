@@ -1,0 +1,17 @@
+D:\C sharp project\AsyncAndAwait\AsyncAndAwait\bin\Debug\net6.0-windows\AsyncAndAwait.exe
+D:\C sharp project\AsyncAndAwait\AsyncAndAwait\bin\Debug\net6.0-windows\AsyncAndAwait.deps.json
+D:\C sharp project\AsyncAndAwait\AsyncAndAwait\bin\Debug\net6.0-windows\AsyncAndAwait.runtimeconfig.json
+D:\C sharp project\AsyncAndAwait\AsyncAndAwait\bin\Debug\net6.0-windows\AsyncAndAwait.dll
+D:\C sharp project\AsyncAndAwait\AsyncAndAwait\bin\Debug\net6.0-windows\AsyncAndAwait.pdb
+D:\C sharp project\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0-windows\AsyncAndAwait.csproj.AssemblyReference.cache
+D:\C sharp project\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0-windows\AsyncAndAwait.Form1.resources
+D:\C sharp project\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0-windows\AsyncAndAwait.csproj.GenerateResource.cache
+D:\C sharp project\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0-windows\AsyncAndAwait.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp project\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0-windows\AsyncAndAwait.AssemblyInfoInputs.cache
+D:\C sharp project\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0-windows\AsyncAndAwait.AssemblyInfo.cs
+D:\C sharp project\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0-windows\AsyncAndAwait.csproj.CoreCompileInputs.cache
+D:\C sharp project\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0-windows\AsyncAndAwait.dll
+D:\C sharp project\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0-windows\refint\AsyncAndAwait.dll
+D:\C sharp project\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0-windows\AsyncAndAwait.pdb
+D:\C sharp project\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0-windows\AsyncAndAwait.genruntimeconfig.cache
+D:\C sharp project\AsyncAndAwait\AsyncAndAwait\obj\Debug\net6.0-windows\ref\AsyncAndAwait.dll
